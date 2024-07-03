@@ -1,0 +1,16 @@
+{
+    "title": "PunchlY's Studio",
+    "subTitle": "悲喜自渡.",
+    "homeUrl": "https://punchly.website",
+    "avatarUrl": "/avatar.png",
+    "faviconUrl": "/favicon.png",
+    "GMEEK_VERSION": "last",
+    "filingNum": "粤ICP备2022031598号",
+    "singlePage": [
+        "about"
+    ],
+    "i18n": "CN",
+    "urlMode": "issue",
+    "showPostSource": 0,
+    "needComment": 1
+}
