@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PunchlY's Studio</title><link>https://punchly.website</link><description>悲喜自渡.</description><copyright>PunchlY's Studio</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/avatar.png</url><title>avatar</title><link>https://punchly.website</link></image><lastBuildDate>Mon, 19 May 2025 15:53:42 +0000</lastBuildDate><managingEditor>PunchlY's Studio</managingEditor><ttl>60</ttl><webMaster>PunchlY's Studio</webMaster><item><title>关于520, 关于...</title><link>https://punchly.website/post/5.html</link><description>## '感谢'.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PunchlY's Studio</title><link>https://punchly.website</link><description>悲喜自渡.</description><copyright>PunchlY's Studio</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/avatar.png</url><title>avatar</title><link>https://punchly.website</link></image><lastBuildDate>Mon, 19 May 2025 16:12:11 +0000</lastBuildDate><managingEditor>PunchlY's Studio</managingEditor><ttl>60</ttl><webMaster>PunchlY's Studio</webMaster><item><title>关于520, 关于...</title><link>https://punchly.website/post/5.html</link><description>## '感谢'.
 
 ![Image](https://github.com/user-attachments/assets/8a03cd53-376e-4f68-941c-4ef5b25bb15c)
 仍在跳动的 (左), 一捧花 (右)
@@ -37,4 +37,12 @@ www.。</description><guid isPermaLink="true">https://punchly.website/post/5.htm
 我在公园把一个雕塑弄坏了, 雕塑形象是机器人.
 我在旁边疯狂尝试`new`这个雕塑.
 
-没成功, 然后笑醒了.。</description><guid isPermaLink="true">https://punchly.website/post/2.html</guid><pubDate>Mon, 30 Dec 2024 20:22:34 +0000</pubDate></item><item><title>关于</title><link>https://punchly.website/about.html</link><description># Hello!。</description><guid isPermaLink="true">https://punchly.website/about.html</guid><pubDate>Wed, 03 Jul 2024 01:24:26 +0000</pubDate></item></channel></rss>
+没成功, 然后笑醒了.。</description><guid isPermaLink="true">https://punchly.website/post/2.html</guid><pubDate>Mon, 30 Dec 2024 20:22:34 +0000</pubDate></item><item><title>关于</title><link>https://punchly.website/about.html</link><description>Hello! 这里是PunchlY.
+正在🎨...
+
+喜欢的游戏是 崩坏学园2.
+喜欢 Marlboro.
+喜欢...
+
+[![Static Badge](https://img.shields.io/badge/GitHub-PunchlY-fff?logo=github)](https://github.com/PunchlY)
+。</description><guid isPermaLink="true">https://punchly.website/about.html</guid><pubDate>Wed, 03 Jul 2024 01:24:26 +0000</pubDate></item></channel></rss>
